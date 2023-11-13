@@ -1,3 +1,5 @@
+export {useProductMutation} from "./hooks/useProductMutation";
+
 export {usePrefetchProduct} from "./hooks/usePrefetchProduct";
 
 export {ProductById} from "./pages/ProductById";
